@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
-	fakeexec "github.com/u2takey/go-utils/exec/testing"
+	"github.com/Valdenirmezadri/go-utils/exec"
+	fakeexec "github.com/Valdenirmezadri/go-utils/exec/testing"
 
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"

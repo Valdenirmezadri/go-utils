@@ -1,3 +1,4 @@
+//go:build windows
 // +build windows
 
 /*
@@ -26,8 +27,8 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/Valdenirmezadri/go-utils/exec/testing"
 	"github.com/stretchr/testify/assert"
-	"github.com/u2takey/go-utils/exec/testing"
 )
 
 func makeLink(link, target string) error {

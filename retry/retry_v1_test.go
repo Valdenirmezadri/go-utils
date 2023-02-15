@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/u2takey/go-utils/wait"
+	"github.com/Valdenirmezadri/go-utils/wait"
 )
 
 func TestRetryOnConflict(t *testing.T) {

@@ -1,3 +1,4 @@
+//go:build windows
 // +build windows
 
 /*
@@ -25,7 +26,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/u2takey/go-utils/keymutex"
+	"github.com/Valdenirmezadri/go-utils/keymutex"
 )
 
 // Mounter provides the default implementation of mount.Interface

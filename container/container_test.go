@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/json"
-	"github.com/u2takey/go-utils/rand"
+	"github.com/Valdenirmezadri/go-utils/json"
+	"github.com/Valdenirmezadri/go-utils/rand"
 	"github.com/stretchr/testify/assert"
 )
 

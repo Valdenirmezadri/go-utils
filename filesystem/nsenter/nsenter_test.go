@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -24,7 +25,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 func TestExec(t *testing.T) {

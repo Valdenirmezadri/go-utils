@@ -20,9 +20,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
-	fakeexec "github.com/u2takey/go-utils/exec/testing"
-	"github.com/u2takey/go-utils/sets"
+	"github.com/Valdenirmezadri/go-utils/exec"
+	fakeexec "github.com/Valdenirmezadri/go-utils/exec/testing"
+	"github.com/Valdenirmezadri/go-utils/sets"
 )
 
 func TestCheckIPSetVersion(t *testing.T) {

@@ -19,7 +19,7 @@ package testing
 import (
 	"os"
 
-	"github.com/u2takey/go-utils/sysctl"
+	"github.com/Valdenirmezadri/go-utils/sysctl"
 )
 
 // Fake is a map-backed implementation of sysctl.Interface, for testing/mocking.

@@ -27,7 +27,7 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 
-	"github.com/u2takey/go-utils/diff/field"
+	"github.com/Valdenirmezadri/go-utils/diff/field"
 )
 
 // StringDiff diffs a and b and returns a human readable diff.

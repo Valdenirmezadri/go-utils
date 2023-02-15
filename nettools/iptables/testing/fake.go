@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/u2takey/go-utils/nettools/iptables"
+	"github.com/Valdenirmezadri/go-utils/nettools/iptables"
 )
 
 const (

@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
-	"github.com/u2takey/go-utils/wait"
+	"github.com/Valdenirmezadri/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/wait"
 )
 
 func TestSimpleQueue(t *testing.T) {

@@ -26,7 +26,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/klog"
 	"sigs.k8s.io/yaml"
 )
 

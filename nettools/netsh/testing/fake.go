@@ -19,7 +19,7 @@ package testing
 import (
 	"net"
 
-	"github.com/u2takey/go-utils/nettools/netsh"
+	"github.com/Valdenirmezadri/go-utils/nettools/netsh"
 )
 
 // FakeNetsh is a no-op implementation of the netsh Interface

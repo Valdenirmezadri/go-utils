@@ -220,7 +220,7 @@ ParallelizeUntil(context.Background(), l, l, func(piece int) {
 获取一个环境变量，如果没有，设置默认值
 
 ```go
-import "github.com/u2takey/go-utils/env"
+import "github.com/Valdenirmezadri/go-utils/env"
 a := env.GetEnvAsStringOrFallback("env1", "val")
 ```
 
@@ -229,7 +229,7 @@ a := env.GetEnvAsStringOrFallback("env1", "val")
 [encrypt](./encrypt/encrypt.go)
 
 ## Json
-json 包的目的是简化替换 json 库到 jsoniter 的流程, 项目中直接搜索 "encoding/json" 替换为 "github.com/u2takey/go-utils/json" 就可以
+json 包的目的是简化替换 json 库到 jsoniter 的流程, 项目中直接搜索 "encoding/json" 替换为 "github.com/Valdenirmezadri/go-utils/json" 就可以
 
 
 ## testing

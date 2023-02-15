@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"strings"
 
-	utilerrors "github.com/u2takey/go-utils/errors"
-	"github.com/u2takey/go-utils/sets"
+	utilerrors "github.com/Valdenirmezadri/go-utils/errors"
+	"github.com/Valdenirmezadri/go-utils/sets"
 )
 
 // Error is an implementation of the 'error' interface, which represents a

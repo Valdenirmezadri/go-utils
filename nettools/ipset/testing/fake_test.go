@@ -19,8 +19,8 @@ package testing
 import (
 	"testing"
 
-	"github.com/u2takey/go-utils/nettools/ipset"
-	"github.com/u2takey/go-utils/sets"
+	"github.com/Valdenirmezadri/go-utils/nettools/ipset"
+	"github.com/Valdenirmezadri/go-utils/sets"
 )
 
 const testVersion = "v6.19"

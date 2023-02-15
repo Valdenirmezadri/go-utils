@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 func ExampleNew() {

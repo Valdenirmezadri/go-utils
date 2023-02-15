@@ -1,3 +1,4 @@
+//go:build !linux
 // +build !linux
 
 /*
@@ -22,7 +23,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 const (

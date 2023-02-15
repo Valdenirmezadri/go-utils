@@ -21,8 +21,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
-	utilruntime "github.com/u2takey/go-utils/runtime"
+	"github.com/Valdenirmezadri/go-utils/clock"
+	utilruntime "github.com/Valdenirmezadri/go-utils/runtime"
 )
 
 // DelayingInterface is an Interface that can Add an item at a later time. This makes it easier to

@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/clock"
 )
 
 type testMetrics struct {

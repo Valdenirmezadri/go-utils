@@ -23,8 +23,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/u2takey/go-utils/filesystem/mount"
-	"github.com/u2takey/go-utils/filesystem/temp"
+	"github.com/Valdenirmezadri/go-utils/filesystem/mount"
+	"github.com/Valdenirmezadri/go-utils/filesystem/temp"
 )
 
 type fakeMounter struct {

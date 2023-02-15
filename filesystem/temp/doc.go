@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package temp provides an interface to handle temporary files and
 // directories.
-package temp // import "github.com/u2takey/go-utils/temp"
+package temp // import "github.com/Valdenirmezadri/go-utils/temp"

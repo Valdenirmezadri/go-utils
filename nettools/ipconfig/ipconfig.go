@@ -20,9 +20,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/klog"
 
-	utilexec "github.com/u2takey/go-utils/exec"
+	utilexec "github.com/Valdenirmezadri/go-utils/exec"
 )
 
 // Interface is an injectable interface for running ipconfig commands.  Implementations must be goroutine-safe.

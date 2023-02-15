@@ -21,8 +21,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/u2takey/go-utils/flowcontrol"
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/flowcontrol"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // BoundedFrequencyRunner manages runs of a user-provided function.

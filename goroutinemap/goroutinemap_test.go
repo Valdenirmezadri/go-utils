@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/wait"
+	"github.com/Valdenirmezadri/go-utils/wait"
 )
 
 const (

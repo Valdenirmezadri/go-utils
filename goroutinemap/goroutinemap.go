@@ -25,9 +25,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/u2takey/go-utils/goroutinemap/exponentialbackoff"
-	"github.com/u2takey/go-utils/klog"
-	k8sRuntime "github.com/u2takey/go-utils/runtime"
+	"github.com/Valdenirmezadri/go-utils/goroutinemap/exponentialbackoff"
+	"github.com/Valdenirmezadri/go-utils/klog"
+	k8sRuntime "github.com/Valdenirmezadri/go-utils/runtime"
 )
 
 // GoRoutineMap defines a type that can run named goroutines and track their

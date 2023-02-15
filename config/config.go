@@ -19,7 +19,7 @@ package config
 import (
 	"sync"
 
-	"github.com/u2takey/go-utils/wait"
+	"github.com/Valdenirmezadri/go-utils/wait"
 )
 
 type Merger interface {

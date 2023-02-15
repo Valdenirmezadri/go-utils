@@ -1,3 +1,4 @@
+//go:build !windows
 // +build !windows
 
 /*
@@ -25,7 +26,7 @@ import (
 	"strings"
 	"syscall"
 
-	utilio "github.com/u2takey/go-utils/filesystem/io"
+	utilio "github.com/Valdenirmezadri/go-utils/filesystem/io"
 )
 
 const (

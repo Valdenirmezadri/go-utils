@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // CleanupMountPoint unmounts the given path and deletes the remaining directory

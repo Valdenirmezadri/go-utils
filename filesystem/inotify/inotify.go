@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package inotify // import "github.com/u2takey/go-utils/inotify"
+package inotify // import "github.com/Valdenirmezadri/go-utils/inotify"
 
 import (
 	"sync"

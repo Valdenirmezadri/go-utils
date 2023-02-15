@@ -23,7 +23,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // Field is a key value pair that provides additional details about the trace.

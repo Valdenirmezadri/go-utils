@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
-	"github.com/u2takey/go-utils/runtime"
+	"github.com/Valdenirmezadri/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/runtime"
 )
 
 func TestUntil(t *testing.T) {

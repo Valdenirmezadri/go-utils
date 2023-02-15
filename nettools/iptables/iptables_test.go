@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -27,10 +28,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
-	fakeexec "github.com/u2takey/go-utils/exec/testing"
-	"github.com/u2takey/go-utils/sets"
-	utilversion "github.com/u2takey/go-utils/version"
+	"github.com/Valdenirmezadri/go-utils/exec"
+	fakeexec "github.com/Valdenirmezadri/go-utils/exec/testing"
+	"github.com/Valdenirmezadri/go-utils/sets"
+	utilversion "github.com/Valdenirmezadri/go-utils/version"
 )
 
 const TestLockfilePath = "xtables.lock"

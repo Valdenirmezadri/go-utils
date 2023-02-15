@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/workqueue"
+	"github.com/Valdenirmezadri/go-utils/workqueue"
 )
 
 func TestBasic(t *testing.T) {

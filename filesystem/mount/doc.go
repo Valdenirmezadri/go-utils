@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package mount defines an interface to mounting filesystems.
-package mount // import "github.com/u2takey/go-utils/mount"
+package mount // import "github.com/Valdenirmezadri/go-utils/mount"

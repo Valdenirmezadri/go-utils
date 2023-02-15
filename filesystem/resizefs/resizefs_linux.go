@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -21,8 +22,8 @@ package resizefs
 import (
 	"fmt"
 
-	"github.com/u2takey/go-utils/filesystem/mount"
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/filesystem/mount"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // ResizeFs Provides support for resizing file systems

@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
-	testingexec "github.com/u2takey/go-utils/exec/testing"
+	"github.com/Valdenirmezadri/go-utils/exec"
+	testingexec "github.com/Valdenirmezadri/go-utils/exec/testing"
 )
 
 type ErrorMounter struct {

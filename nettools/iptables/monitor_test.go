@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -27,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/exec"
-	"github.com/u2takey/go-utils/sets"
-	utilwait "github.com/u2takey/go-utils/wait"
+	"github.com/Valdenirmezadri/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/sets"
+	utilwait "github.com/Valdenirmezadri/go-utils/wait"
 )
 
 // We can't use the normal FakeExec because we don't know precisely how many times the

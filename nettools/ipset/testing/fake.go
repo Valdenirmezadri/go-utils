@@ -19,8 +19,8 @@ package testing
 import (
 	"fmt"
 
-	"github.com/u2takey/go-utils/nettools/ipset"
-	"github.com/u2takey/go-utils/sets"
+	"github.com/Valdenirmezadri/go-utils/nettools/ipset"
+	"github.com/Valdenirmezadri/go-utils/sets"
 )
 
 // FakeIPSet is a no-op implementation of ipset Interface

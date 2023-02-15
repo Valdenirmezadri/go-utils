@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package wait provides tools for polling or listening for changes
 // to a condition.
-package wait // import "github.com/u2takey/go-utils/wait"
+package wait // import "github.com/Valdenirmezadri/go-utils/wait"

@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -24,8 +25,8 @@ import (
 	"os"
 	"time"
 
-	utilerrors "github.com/u2takey/go-utils/errors"
-	"github.com/u2takey/go-utils/wait"
+	utilerrors "github.com/Valdenirmezadri/go-utils/errors"
+	"github.com/Valdenirmezadri/go-utils/wait"
 	"golang.org/x/sys/unix"
 )
 

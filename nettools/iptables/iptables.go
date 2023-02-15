@@ -25,12 +25,12 @@ import (
 	"sync"
 	"time"
 
-	utilexec "github.com/u2takey/go-utils/exec"
-	"github.com/u2takey/go-utils/klog"
-	"github.com/u2takey/go-utils/sets"
-	utiltrace "github.com/u2takey/go-utils/trace"
-	utilversion "github.com/u2takey/go-utils/version"
-	utilwait "github.com/u2takey/go-utils/wait"
+	utilexec "github.com/Valdenirmezadri/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/sets"
+	utiltrace "github.com/Valdenirmezadri/go-utils/trace"
+	utilversion "github.com/Valdenirmezadri/go-utils/version"
+	utilwait "github.com/Valdenirmezadri/go-utils/wait"
 )
 
 // RulePosition holds the -I/-A flags for iptable

@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/u2takey/go-utils/validation/field"
+	"github.com/Valdenirmezadri/go-utils/validation/field"
 )
 
 const qnameCharFmt string = "[A-Za-z0-9]"

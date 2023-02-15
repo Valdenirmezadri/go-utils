@@ -24,7 +24,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/u2takey/go-utils/cert/keyutil"
+	"github.com/Valdenirmezadri/go-utils/cert/keyutil"
 )
 
 func TestMakeCSR(t *testing.T) {

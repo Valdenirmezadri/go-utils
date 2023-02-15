@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/klog"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 func init() {

@@ -29,21 +29,21 @@ func TestGetNameFromCallsite(t *testing.T) {
 	}{
 		{
 			name:     "simple",
-			expected: "github.com/u2takey/go-utils/naming/from_stack_test.go:",
+			expected: "github.com/Valdenirmezadri/go-utils/naming/from_stack_test.go:",
 		},
 		{
 			name:            "ignore-package",
-			ignoredPackages: []string{"github.com/u2takey/go-utils/naming"},
+			ignoredPackages: []string{"github.com/Valdenirmezadri/go-utils/naming"},
 			expected:        "testing/testing.go:",
 		},
 		{
 			name:            "ignore-file",
-			ignoredPackages: []string{"github.com/u2takey/go-utils/naming/from_stack_test.go"},
+			ignoredPackages: []string{"github.com/Valdenirmezadri/go-utils/naming/from_stack_test.go"},
 			expected:        "testing/testing.go:",
 		},
 		{
 			name:            "ignore-multiple",
-			ignoredPackages: []string{"github.com/u2takey/go-utils/naming/from_stack_test.go", "testing/testing.go"},
+			ignoredPackages: []string{"github.com/Valdenirmezadri/go-utils/naming/from_stack_test.go", "testing/testing.go"},
 			expected:        "????",
 		},
 	}

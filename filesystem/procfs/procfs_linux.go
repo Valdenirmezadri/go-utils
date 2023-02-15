@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -32,8 +33,8 @@ import (
 	"syscall"
 	"unicode"
 
-	utilerrors "github.com/u2takey/go-utils/errors"
-	"github.com/u2takey/go-utils/klog"
+	utilerrors "github.com/Valdenirmezadri/go-utils/errors"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // ProcFS provides a helper for getting container name via pid.

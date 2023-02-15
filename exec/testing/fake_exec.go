@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 // FakeExec is a simple scripted Interface type.

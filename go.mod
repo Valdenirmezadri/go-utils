@@ -1,4 +1,4 @@
-module github.com/u2takey/go-utils
+module github.com/Valdenirmezadri/go-utils
 
 go 1.15
 

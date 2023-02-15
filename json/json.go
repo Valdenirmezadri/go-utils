@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/json-iterator/go"
+	jsoniter "github.com/json-iterator/go"
 )
 
-// json 包的目的是简化替换 json 库的流程, 项目中直接搜索 "encoding/json" 替换为 "github.com/u2takey/go-utils/json" 就可以
+// json 包的目的是简化替换 json 库的流程, 项目中直接搜索 "encoding/json" 替换为 "github.com/Valdenirmezadri/go-utils/json" 就可以
 
 type InvalidUnmarshalError = json.InvalidUnmarshalError
 type UnmarshalTypeError = json.UnmarshalTypeError

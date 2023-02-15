@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/clock"
 )
 
 func expectEntry(t *testing.T, c *LRUExpireCache, key, value interface{}) {

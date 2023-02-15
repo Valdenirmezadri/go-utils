@@ -1,3 +1,4 @@
+//go:build linux
 // +build linux
 
 /*
@@ -27,9 +28,9 @@ import (
 	"strings"
 	"syscall"
 
-	utilexec "github.com/u2takey/go-utils/exec"
-	utilio "github.com/u2takey/go-utils/filesystem/io"
-	"github.com/u2takey/go-utils/klog"
+	utilexec "github.com/Valdenirmezadri/go-utils/exec"
+	utilio "github.com/Valdenirmezadri/go-utils/filesystem/io"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 const (

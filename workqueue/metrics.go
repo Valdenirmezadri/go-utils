@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/clock"
 )
 
 // This file provides abstractions for setting the provider (e.g., prometheus)

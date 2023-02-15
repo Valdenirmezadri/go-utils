@@ -20,7 +20,7 @@ import (
 	"context"
 	"sync"
 
-	utilruntime "github.com/u2takey/go-utils/runtime"
+	utilruntime "github.com/Valdenirmezadri/go-utils/runtime"
 )
 
 type DoWorkPieceFunc func(piece int)

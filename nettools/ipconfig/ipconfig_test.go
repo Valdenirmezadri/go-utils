@@ -19,7 +19,7 @@ package ipconfig
 import (
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 func TestGetDNSSuffixSearchList(t *testing.T) {

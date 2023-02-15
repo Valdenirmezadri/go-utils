@@ -19,7 +19,7 @@ package testingexec
 import (
 	"testing"
 
-	"github.com/u2takey/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/exec"
 )
 
 // Test that command order is enforced

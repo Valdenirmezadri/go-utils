@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	utilclock "github.com/u2takey/go-utils/clock"
+	utilclock "github.com/Valdenirmezadri/go-utils/clock"
 )
 
 // NewExpiring returns an initialized expiring cache.

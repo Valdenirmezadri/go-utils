@@ -23,8 +23,8 @@ import (
 	"strings"
 	"time"
 
-	utilexec "github.com/u2takey/go-utils/exec"
-	"github.com/u2takey/go-utils/klog"
+	utilexec "github.com/Valdenirmezadri/go-utils/exec"
+	"github.com/Valdenirmezadri/go-utils/klog"
 )
 
 // Interface is an injectable interface for running netsh commands.  Implementations must be goroutine-safe.

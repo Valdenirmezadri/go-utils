@@ -20,8 +20,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/u2takey/go-utils/clock"
-	"github.com/u2takey/go-utils/integer"
+	"github.com/Valdenirmezadri/go-utils/clock"
+	"github.com/Valdenirmezadri/go-utils/integer"
 )
 
 type backoffEntry struct {

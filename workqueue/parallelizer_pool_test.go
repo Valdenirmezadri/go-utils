@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Valdenirmezadri/go-utils/sets"
 	"github.com/panjf2000/ants/v2"
-	"github.com/u2takey/go-utils/sets"
 )
 
 type TestPool struct {

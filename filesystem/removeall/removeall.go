@@ -22,7 +22,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/u2takey/go-utils/filesystem/mount"
+	"github.com/Valdenirmezadri/go-utils/filesystem/mount"
 )
 
 // RemoveAllOneFilesystem removes path and any children it contains.

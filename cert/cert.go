@@ -32,7 +32,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/u2takey/go-utils/cert/keyutil"
+	"github.com/Valdenirmezadri/go-utils/cert/keyutil"
 )
 
 const duration365d = time.Hour * 24 * 365

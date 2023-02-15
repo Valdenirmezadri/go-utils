@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/u2takey/go-utils/filesystem/temp"
+	"github.com/Valdenirmezadri/go-utils/filesystem/temp"
 )
 
 func TestedCode(dir temp.Directory) error {
